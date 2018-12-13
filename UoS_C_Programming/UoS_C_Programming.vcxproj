@@ -124,6 +124,7 @@
   <ItemGroup>
     <ClCompile Include="Lab_10.cpp" />
     <ClCompile Include="Lab_11.cpp" />
+    <ClCompile Include="Lab_12.cpp" />
     <ClCompile Include="Lab_3.cpp" />
     <ClCompile Include="Lab_4.cpp" />
     <ClCompile Include="Lab_5.cpp" />
@@ -138,6 +139,7 @@
     <ClInclude Include="Lab_1.hpp" />
     <ClInclude Include="Lab_10.hpp" />
     <ClInclude Include="Lab_11.hpp" />
+    <ClInclude Include="Lab_12.hpp" />
     <ClInclude Include="Lab_2.hpp" />
     <ClInclude Include="Lab_3.hpp" />
     <ClInclude Include="Lab_4.hpp" />

@@ -15,6 +15,7 @@
 #include "Lab_7.hpp"
 #include "Lab_10.hpp"
 #include "Lab_11.hpp"
+#include "Lab_12.hpp"
 
 int main(int argc, char *argv[]) 
 {
@@ -49,7 +50,9 @@ int main(int argc, char *argv[])
 	//Lab10_Exercise1();
 
 	// Code in the Lab_11.cpp file!
-	Lab11_Exercise1();
+	//Lab11_Exercise1();
 
+	// Code in the Lab_12.cpp file!
+	Lab12_Exercise1();
 	return 0;
 }
